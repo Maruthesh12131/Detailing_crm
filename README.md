@@ -118,6 +118,3 @@ Do not commit passwords, secret keys, API tokens, or other sensitive configurati
 
 Contributions and improvements can be managed through Git branches and commits. Test changes locally before pushing them to the repository.
 
-## License
-
-No license has been specified yet. Add an appropriate license before distributing or reusing this project publicly.
